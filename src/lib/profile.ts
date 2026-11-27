@@ -78,6 +78,24 @@ export type Project = {
 
 export const projects: Project[] = [
   {
+    title: "Web Development Project — Launchpad Career Portal",
+    tagline: "Web Development",
+    description:
+      "A frontend-only internship and placement portal built with HTML, CSS and JavaScript. It includes sample student and company screens, navigation, search filters and demo interactions to showcase student and company workflows.",
+    tech: ["HTML", "CSS", "JavaScript"],
+    github: "https://github.com/sak282/Web_Development_project",
+    year: "2026",
+  },
+  {
+    title: "MCA Web Technologies — Practical Assignments",
+    tagline: "Academic Practicals",
+    description:
+      "A collection of five MCA Web Technologies practical assignments, organized into separate folders covering HTML basics, images and tables, forms, HTML5 features and JavaScript fundamentals.",
+    tech: ["HTML", "HTML5", "Forms", "JavaScript"],
+    github: "https://github.com/sak282/Web-Devolpment_practical-Assignment",
+    year: "2026",
+  },
+  {
     title: "Duplicate File Cleaner & Log Automation",
     tagline: "Python Automation",
     description:
